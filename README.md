@@ -1,5 +1,5 @@
 # FlowWeaver: AI-Powered Workflow Automation
-
+"image_placeholder"<file:///Users/thesocialninjaexperiment/Downloads/Video%20Gen%20_%20Google%20AI%20Studio%20(1).png>image_placeholder
 ## Overview
 **FlowWeaver** is an intuitive, AI-enhanced visual workspace that empowers individuals and teams to seamlessly transition from idea to automated execution. It acts as a dynamic digital whiteboard where users can brainstorm, design mind maps, and construct detailed workflows. FlowWeaver's unique strength lies in its ability to interpret visual constructs and, with user guidance, initiate automated sequences by integrating with essential platforms like Git, GitHub, JetBrains IDEs, Slack, Figma, and HuggingFace.
 
@@ -119,3 +119,4 @@
 ---
 
 FlowWeaver is the ultimate tool to bridge the gap between ideation and execution. By combining the power of AI, seamless integrations, and an intuitive visual workspace, it transforms how individuals and teams automate workflows.
+![Video Gen _ Google AI Studio](https://github.com/user-attachments/assets/8287b89c-1489-41ca-8d60-6d1397f75d8d)
