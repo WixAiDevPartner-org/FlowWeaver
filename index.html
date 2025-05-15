@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Intelligent Whiteboard Canvas</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Intelligent Whiteboard Canvas Demo</h1>
+  </header>
+  <main>
+    <div id="canvas-container">
+      <!-- Infinite canvas will render here -->
+      <canvas id="whiteboard"></canvas>
+    </div>
+    <div id="controls">
+      <input type="text" id="node-input" placeholder="Enter your idea here...">
+      <button id="generate-node">Generate Node</button>
+    </div>
+  </main>
+  <script src="main.js"></script>
+  <script src="ai-node-creation.js"></script>
+  <script src="layout-engine.js"></script>
+</body>
+</html>
