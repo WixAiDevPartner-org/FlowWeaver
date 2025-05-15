@@ -1,0 +1,8 @@
+#Directory structure after setup:
+server/
+├── config/
+│   └── google-credentials.json  # Your credentials file
+├── .env                        # Environment variables
+├── .env.example               # Example environment file
+├── .gitignore                 # Git ignore file
+└── setup-credentials.sh       # Setup script
